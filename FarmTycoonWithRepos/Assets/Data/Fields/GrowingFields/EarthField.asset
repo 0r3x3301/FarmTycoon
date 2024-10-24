@@ -15,6 +15,7 @@ MonoBehaviour:
   _name: "\u0417\u0435\u043C\u043B\u044F\u043D\u043E\u0435 \u043F\u043E\u043B\u0435"
   _description: "\u041F\u043E\u043B\u0435 \u0441 \u0437\u0435\u043C\u043B\u0435\u0439"
   _sprite: {fileID: 21300000, guid: d6935ee3b4bbecf4282103b2ca1c3457, type: 3}
-  _maxItemsCount: 12
+  _maxItemsCount: 7
   _acceptableItems:
   - {fileID: 11400000, guid: 2e7b8b759cc9eb040899d7cb512919d3, type: 2}
+  _prefab: {fileID: 6178966192932571673, guid: 900136ff20348e849bb4bfb81b77c473, type: 3}

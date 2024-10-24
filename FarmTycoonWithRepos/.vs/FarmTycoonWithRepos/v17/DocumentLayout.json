@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\assets\\scripts\\assets\\growingitemasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assets\\growingitemasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|d:\\githab\\repositories\\farmtycoon\\farmtycoonwithrepos\\assets\\scripts\\fieldhelpers\\infielditemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fieldhelpers\\infielditemshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\assets\\scripts\\assets\\growingfieldasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|d:\\githab\\repositories\\farmtycoon\\farmtycoonwithrepos\\assets\\scripts\\assets\\growingfieldasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assets\\growingfieldasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|d:\\githab\\repositories\\farmtycoon\\farmtycoonwithrepos\\assets\\scripts\\fieldhelpers\\fieldinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|d:\\githab\\repositories\\farmtycoon\\farmtycoonwithrepos\\assets\\scripts\\assets\\growingitemasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\assets\\growingitemasset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\assets\\scripts\\fieldhelpers\\fieldinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\fieldhelpers\\fieldinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|d:\\githab\\repositories\\farmtycoon\\farmtycoonwithrepos\\assets\\scripts\\components\\field\\timerforitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D0D5BA-18DC-7CB1-00E8-7A13881CE2F8}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\components\\field\\timerforitems.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,54 +38,67 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GrowingItemAsset.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\Assets\\GrowingItemAsset.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assets\\GrowingItemAsset.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\Assets\\GrowingItemAsset.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assets\\GrowingItemAsset.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwCoAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:07:04.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimerForItems.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\Components\\Field\\TimerForItems.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Components\\Field\\TimerForItems.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\Components\\Field\\TimerForItems.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Components\\Field\\TimerForItems.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:42:50.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrowingFieldAsset.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\Assets\\GrowingFieldAsset.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Assets\\GrowingFieldAsset.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\Assets\\GrowingFieldAsset.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Assets\\GrowingFieldAsset.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAWwDcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T12:33:54.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "InFieldItemsHandler.cs",
+              "DocumentMoniker": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\FieldHelpers\\InFieldItemsHandler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\FieldHelpers\\InFieldItemsHandler.cs",
+              "ToolTip": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\FieldHelpers\\InFieldItemsHandler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\FieldHelpers\\InFieldItemsHandler.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwC4AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T13:09:44.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FieldInventory.cs",
               "DocumentMoniker": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\FieldHelpers\\FieldInventory.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\FieldHelpers\\FieldInventory.cs",
               "ToolTip": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\FieldHelpers\\FieldInventory.cs",
               "RelativeToolTip": "Assets\\Scripts\\FieldHelpers\\FieldInventory.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAA9wAkAAAA5AAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA9wB4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T09:32:14.797Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "InFieldItemsHandler.cs",
-              "DocumentMoniker": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\FieldHelpers\\InFieldItemsHandler.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\FieldHelpers\\InFieldItemsHandler.cs",
-              "ToolTip": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\FieldHelpers\\InFieldItemsHandler.cs",
-              "RelativeToolTip": "Assets\\Scripts\\FieldHelpers\\InFieldItemsHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T07:18:10.749Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "GrowingFieldAsset.cs",
-              "DocumentMoniker": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\Assets\\GrowingFieldAsset.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Assets\\GrowingFieldAsset.cs",
-              "ToolTip": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\Assets\\GrowingFieldAsset.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Assets\\GrowingFieldAsset.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T21:22:15.288Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GrowingItemAsset.cs",
-              "DocumentMoniker": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\Assets\\GrowingItemAsset.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Assets\\GrowingItemAsset.cs",
-              "ToolTip": "D:\\Githab\\Repositories\\FarmTycoon\\FarmTycoonWithRepos\\Assets\\Scripts\\Assets\\GrowingItemAsset.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Assets\\GrowingItemAsset.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAqwA0AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T21:17:56.863Z",
+              "WhenOpened": "2024-10-24T12:11:02.995Z",
               "EditorCaption": ""
             }
           ]

@@ -12,7 +12,7 @@ public class FieldInventory
     public FieldInventory(int maxItemsCount)
     {
         _maxItemsCount = maxItemsCount;
-        _items = new List<GrowingItemAsset>(maxItemsCount);
+        _items = new List<GrowingItemAsset>();
     }
 
     public void AddItem(GrowingItemAsset item)
@@ -28,6 +28,8 @@ public class FieldInventory
     {
         item.OnGrown -= OnItemGrown;
         Debug.Log($"Âûנמס ןנוהלוע {item.Name}");
+        Debug.Log(_items.Count);
         _items.Remove(item);
+        Debug.Log(_items.Count);
     }
 }
